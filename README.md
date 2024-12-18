@@ -16,5 +16,5 @@ A project to estimate the speed and trajectory of a ping-pong ball using video a
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Ping-Pong-Ball-Speed-Estimator.git
-   cd Ping-Pong-Ball-Speed-Estimator
+   git clone https://github.com/PacifiqueNtwali/TableTennisSpeedTracker.git
+   cd TableTennisSpeedTracker
